@@ -1,2 +1,1 @@
-# kelvin-pair
-Pair code
+<a href="https://git.io/typing-hgm"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=blue&center=true&width=1000&height=200&lines=JAMPAN-GX3" alt="Typing HGM" /></a>
